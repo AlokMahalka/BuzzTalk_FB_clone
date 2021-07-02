@@ -1,7 +1,7 @@
 # BuzzTalk - Backend
 
 ## Description
- The backend for the application is written using NodeJS, Express
+ The backend for the application is written using NodeJS, Express. As for the databse MongoDB is used.
 
 ## Usage
  After cloning this repository,
